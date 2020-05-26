@@ -75,3 +75,9 @@ Under consideration for future versions:
 ****************************************
 1. Output programs that can be run on dlv.
 2. Implementing safety-preserving transformations.
+
+## Other Information
+* [User Manual](http://reasoning.eas.asu.edu/f2lp/index_files/manual.html)
+* [Hybrid Temporal Action Logic Theories](http://reasoning.eas.asu.edu/f2lp/index_files/TAL-hybrid.html)
+* [Temporal Action Logics Examples and Comparison with VITAL](http://reasoning.eas.asu.edu/f2lp/index_files/TAL.html)
+* [More Event Calculus Examples and Comparison with DEC reasoner](http://reasoning.eas.asu.edu/f2lp/index_files/Event%20Calculus.html)
