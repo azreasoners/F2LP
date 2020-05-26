@@ -10,6 +10,9 @@ F2LP can be used to compute circumscriptive theories such as Event Calculus desc
 ## File Description
 * bin/f2lp: the pre-compiled binary for f2lp under Linux 64bit.
 * f2lp.c: source code of F2LP.
+* examples/blocksWorld.e: F2LP encoding of an event calculus description of the blocks world domain (does not include DEC/EC axioms).
+* examples/robby.e: F2LP encoding of an event calculus description of the "robby" domain from [Dogandag et al., 2004].
+* examples/dec.e: F2LP encoding of the DEC axioms.
 * COPYRIGHT: information about copyright and warranty.
 
 ## Compiling F2LP
@@ -17,14 +20,6 @@ The following command line should work with most gcc distributions:
 ```
 gcc f2lp.c -o f2lp
 ```
-
-## Examples
-
-blocksWorld.e: F2LP encoding of an event calculus description of the blocks world domain (does not include DEC/EC axioms).
-
-robby.e: F2LP encoding of an event calculus description of the "robby" domain from [Dogandag et al., 2004].
-
-dec.e: F2LP encoding of the DEC axioms.
 
 ## How to Use
 You can use the following command line to invoke F2LP. Please type "f2lp --help" for a list of all options.
